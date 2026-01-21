@@ -16,3 +16,5 @@ Python script to view the Claude session and weekly limit in the Mac menu bar
 4. Paste the cURL in a new file called curl.txt (same root as claude_usage_menubar.py)
 5. `pip3 install -r requirements.txt`
 6. `python3 claude_usage_menubar.py &`
+
+Happy Vibing!
